@@ -1,0 +1,22 @@
+.header {
+  background: #ce6880; 
+  background: -moz-linear-gradient(left, #ce6880 0%, #b092b8 51%, #5c90c2 100%); 
+  background: -webkit-linear-gradient(left, #ce6880 0%,#b092b8 51%,#5c90c2 100%); 
+  background: linear-gradient(to right, #ce6880 0%,#b092b8 51%,#5c90c2 100%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ce6880', endColorstr='#5c90c2',GradientType=1 ); 
+  padding: 0.4rem 2rem;
+}
+.header .dropdown .dropdown-toggle {
+  float: right;
+  color: white;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  padding: 0;
+}
+.dropdown-toggle::after {
+  display: none;
+}
+svg.svg-inline--fa.fa-user.fa-w-14 {
+  font-size: 14px;
+}

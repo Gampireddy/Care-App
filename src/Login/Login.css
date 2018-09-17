@@ -1,0 +1,15 @@
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: -4 1 auto;
+    padding: 8.25rem;
+}
+h2.text {
+  
+    text-align-last: center;
+  }
+.card{
+    position: relative;
+    top: 150px;
+    width: 85%
+
+}

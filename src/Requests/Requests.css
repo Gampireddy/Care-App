@@ -1,0 +1,21 @@
+
+.adduser svg{
+    font-size: 0.9rem;
+    margin-top: -5px;
+  }
+  .newbutton{
+      background: #212529d4;
+      padding: 1rem 0;
+  }
+  button.adduser {
+    height: 75px;
+    width: 75px;
+    line-height: 16px;
+    position: fixed;
+    border-radius: 50%;
+    right: 20px;
+    bottom: 20px;
+  }
+  button.adduser:hover {
+  color: #ffffff;
+  }
